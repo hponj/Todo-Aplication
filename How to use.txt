@@ -1,0 +1,10 @@
+How to use:
+
+1.open your vs code and run "main.py"
+
+2.open folder"disk"
+
+3.click "Todo"
+
+note:
+i still have problems with the sorry server not connecting automatically without running code ;)
