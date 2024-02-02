@@ -1,10 +1,12 @@
 How to use:
 
-1.open your vs code and run "main.py"
+1.open CMD/terminal and write "pip install eel" for instal eel
 
-2.open folder"disk"
+2.open your vs code and run "main.py"
 
-3.click "Todo"
+3.open folder"disk"
+
+4.click "Todo"
 
 note:
-i still have problems with the sorry server not connecting automatically without running code ;)
+-i still have problems with the sorry server not connecting automatically without running code ;)
